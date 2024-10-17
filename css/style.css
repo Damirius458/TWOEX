@@ -1,0 +1,39 @@
+body {
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    height: 100vh;
+
+ background-color: blueviolet;
+
+
+}
+#hamster {
+    width: 400px;
+    cursor: pointer;
+}
+#score {
+    font-size: 50px;
+    margin-top: 20px;
+    background-color: cyan;
+}
+
+#money {
+margin-top: 40px;
+font-size:xx-large ;
+background-color: brown;
+}
+#button {
+font-size:50px;
+margin-top: 20px;
+background-color: blue;
+}
+    
+
+    
